@@ -1,0 +1,52 @@
+body {
+  color: #212121;
+
+  font-family: 'Roboto', sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #212121;
+}
+a:hover {
+  color: #2196f3;
+}
+ul {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+header {
+  font-weight: 500;
+}
+
+h4 {
+  font-weight: 700px;
+}
+
+.filtry {
+  font-weight: 500;
+  text-align: center;
+}
+.filtry:hover {
+  background-color: #2196f3;
+  color: white;
+}
+
+.nazwa {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+footer {
+  background-color: #212121;
+  color: white;
+}
+.nazwa-footer {
+  color: white;
+}
+.kontakt {
+  color: white;
+}

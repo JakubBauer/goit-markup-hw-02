@@ -1,52 +1,80 @@
-body {
-  color: #212121;
-
+body{
+  color:#212121 ;
   font-family: 'Roboto', sans-serif;
-}
-a {
-  text-decoration: none;
-  color: #212121;
-}
-a:hover {
-  color: #2196f3;
-}
-ul {
-  list-style-type: none;
-}
-
-button {
   cursor: pointer;
 }
-
-header {
-  font-weight: 500;
+ul{
+  list-style-type: none;
 }
-
-h4 {
-  font-weight: 700px;
-}
-
-.filtry {
-  font-weight: 500;
-  text-align: center;
-}
-.filtry:hover {
-  background-color: #2196f3;
-  color: white;
-}
-
-.nazwa {
+.name{
+  text-decoration: none;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+}
+.menu{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-decoration: none; 
+  font-size: 14px;
+  line-height: 1.14 ;
+}
+.menu:hover{
+  color: #2196F3;
+}
+.contact{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
   text-decoration: none;
+  color:#757575 ;
+  font-size: 14px;
+  line-height: 1.14;
 }
-footer {
-  background-color: #212121;
-  color: white;
+.contact:hover{
+  color: #2196F3;
 }
-.nazwa-footer {
-  color: white;
+.filtr{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625;
+
 }
-.kontakt {
-  color: white;
+.filtr:hover{
+  background-color:#2196F3 ;
+  color: #FFFFFF;
+}
+.imgname{
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+}
+.text{
+  font-size: 16px;
+  line-height: 1,875;
+}
+.fotter{
+  background-color:#2F303A ;
+}
+.namefotter{
+  text-decoration: none;
+  color: #FFFFFF;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+
+}
+.namefotter:hover{
+  color: #2196F3;
+}
+address{
+  color: #FFFFFF ;
+  font-size: 14px;
+  line-height: 1,71;
+
+}
+address:hover{
+  color: #2196F3;
 }

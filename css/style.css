@@ -3,9 +3,7 @@ body{
   font-family: 'Roboto', sans-serif;
   cursor: pointer;
 }
-ul{
-  list-style-type: none;
-}
+
 .name{
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
